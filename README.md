@@ -1,2 +1,2 @@
 # temaWordpress
-tema criado como parte do curso " Criação de temas Wordpress
+Um tema Simples Wordpress Criado por mim do 0 como parte dos meus estudos e cursos.
